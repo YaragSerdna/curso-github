@@ -1,2 +1,2 @@
 # curso-github
-Guitarras invie
+Guitarras invie by @platzi
